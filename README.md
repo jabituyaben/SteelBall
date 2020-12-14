@@ -1,7 +1,10 @@
 # Steel Ball
 
 See blog post on my website and Youtube video first:
+
 https://youtu.be/ivDPa3YhF0U
+
+https://jabituyaben.wixsite.com/majorinput/post/inducing-experimenting-with-hypnagogia-trance-states-with-the-bangle-js
 
 Simply paste the code into the Espruino IDE and save the program as whatever you want.
 

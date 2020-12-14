@@ -6,7 +6,7 @@ https://youtu.be/ivDPa3YhF0U
 
 https://jabituyaben.wixsite.com/majorinput/post/inducing-experimenting-with-hypnagogia-trance-states-with-the-bangle-js
 
-Simply paste the code into the Espruino IDE and save the program as whatever you want.
+Simply paste the Steel Ball code into the Espruino IDE and save the program as whatever you want.
 
 As always with my projects, this can be considered a base code from which to expand where required. However I must say that I’ve had great results with this so far as is – so far the only addition I've made to this offline is a slight delay to the alarm before it is triggered, and this seems to work better for me.
 

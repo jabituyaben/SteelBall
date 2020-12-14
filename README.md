@@ -2,7 +2,7 @@
 
 See blog post on my website and Youtube video first:
 
-https://youtu.be/ivDPa3YhF0U
+https://youtu.be/4zm18UWihe4
 
 https://jabituyaben.wixsite.com/majorinput/post/inducing-experimenting-with-hypnagogia-trance-states-with-the-bangle-js
 

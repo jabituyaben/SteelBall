@@ -1,6 +1,7 @@
 # Steel Ball
 
 See blog post on my website and Youtube video first:
+https://youtu.be/ivDPa3YhF0U
 
 Simply paste the code into the Espruino IDE and save the program as whatever you want.
 
